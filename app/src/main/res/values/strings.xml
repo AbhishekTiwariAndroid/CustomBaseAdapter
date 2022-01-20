@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CustomBaseAdapter</string>
+
+    <string-array name="android_version">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Ice cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kit Kat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+    </string-array>
+</resources>
